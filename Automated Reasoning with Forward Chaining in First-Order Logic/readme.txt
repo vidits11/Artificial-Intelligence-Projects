@@ -1,4 +1,4 @@
-Project 2 - Forward Chaining Chatbot
+Project  - Forward Chaining Chatbot
 CIS561: Artificial Intelligence (F23)
 
 Submitted by: Vidit Shrivastava 
