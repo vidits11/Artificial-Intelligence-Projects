@@ -1,0 +1,8 @@
+
+∀x (RegisteredFor(x, Algebra101) → Student(x))
+∀x (FailedMidterm(x) → NeedsExtraHelp(x))
+∀x (ScoreAbove90(x) → EligibleForHonorRoll(x))
+∀x (AsksForTutoring(x) → ReceivesTutoring(x))
+∀x,y (StrugglesWith(x, y) → ReceivesHelpOn(y))
+StrugglesWith(Amy, QuadraticEquations)
+FailedMidterm(Bob)

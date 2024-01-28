@@ -1,0 +1,3 @@
+Question: ReceivesHelpOn(QuadraticEquations); Answer: True
+Question: NeedsExtraHelp(Bob); Answer: True
+Question: EligibleForHonorRoll(Charlie); Answer: False

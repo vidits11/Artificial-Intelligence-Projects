@@ -1,0 +1,3 @@
+ReceivesHelpOn(QuadraticEquations)
+NeedsExtraHelp(Bob)
+EligibleForHonorRoll(Charlie)
