@@ -1,8 +1,4 @@
 Project  - Forward Chaining Chatbot
-CIS561: Artificial Intelligence (F23)
-
-Submitted by: Vidit Shrivastava 
-Student ID(02049294)
 
 Code files
 1. Task_3.py: Implements the core forward chaining logic. Reads the KB and queries, performs inference to answer queries, and outputs results.
