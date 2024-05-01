@@ -1,4 +1,4 @@
-Project  - Forward Chaining Chatbot
+Project  - FOL Chatbot
 
 Code files
 1. Task_3.py: Implements the core forward chaining logic. Reads the KB and queries, performs inference to answer queries, and outputs results.
